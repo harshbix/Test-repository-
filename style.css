@@ -15,8 +15,9 @@ body
 .box
 {
    background-color: #e1e2e1;
-   padding: 60px;
+   padding: 45px;
    max-width: 90%;
+   font-size: 13px;
    box-shadow: 2px 2px 8px rgb(199, 193, 193);
 }
 
